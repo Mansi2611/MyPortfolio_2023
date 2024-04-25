@@ -306,18 +306,24 @@ video {
 }
 
 .back {
-  background-color: #ae445a;
+  background-color: #7ced80;
   z-index: 1;
   transform: rotateY(180deg);
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #111111;
 }
 .back h2 {
   font-size: x-large;
   margin-bottom: 50%;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-weight: 700;
+  color: black;
+  font-family: "Cormorant SC", serif;
+  font-family: "Fruktur", cursive;
+  font-family: "Gravitas One", cursive;
+  font-family: "Lobster", cursive;
 }
 
 .skill-card:hover {
